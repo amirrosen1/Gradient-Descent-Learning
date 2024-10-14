@@ -1,0 +1,18 @@
+# GradientDescentLearning
+
+GradientDescentLearning is a Python library designed to implement gradient descent optimization methods for machine learning tasks.
+The package includes base modules for gradient descent, logistic regression, cross-validation, and different learning rate strategies.
+
+## Features
+
+- **Gradient Descent Algorithm**: Supports fixed and exponential learning rates.
+- **Logistic Regression**: Implements L1 and L2 regularization.
+- **Cross-Validation**: Evaluate models using k-fold cross-validation.
+- **Custom Loss Functions**: Includes MSE, cross-entropy, and misclassification error.
+
+## Installation
+
+Ensure you have `Python 3.x` installed, then use the following to install the dependencies:
+
+```bash
+pip install -r requirements.txt
